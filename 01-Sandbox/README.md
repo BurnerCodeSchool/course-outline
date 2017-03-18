@@ -27,8 +27,8 @@
 
 ### 03 - Provision
 * [Screencast](https://www.youtube.com/embed/-WcNWPHU_MQ)
-* Prefix script has moved: https://raw.githubusercontent.com/BurnerDev/CodeSchool/master/01-Sandbox/prefix.sh
+* Prefix script has moved: https://raw.githubusercontent.com/BurnerCodeSchool/sandbox/master/automated_sandbox.sh
 
 ### 04 - Fully Automated Provision
 * [Screencast](https://www.youtube.com/embed/3hIwV84BQ6E)
-* Automated Sandbox script has moved: https://raw.githubusercontent.com/BurnerDev/CodeSchool/master/01-Sandbox/automated_sandbox.sh
+* Automated Sandbox script has moved: https://raw.githubusercontent.com/BurnerCodeSchool/sandbox/master/automated_sandbox.sh
