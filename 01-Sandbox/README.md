@@ -4,6 +4,10 @@
 [![Sandbox](images/sandbox.png)](http://slides.com/russelltsherman/deck-1/)
 
 
+### Burner code school sandbox provisioning
+* [Book](https://bhedana.gitbooks.io/burner-code-school-sandbox-provisioning/content/)
+
+
 ### 00 - Get Prepared
 * [Screencast](https://www.youtube.com/embed/-Ci6w1vFF8o)
 
